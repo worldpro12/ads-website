@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MarketMaster Classifieds",
+  "description": "A high-performance, secure, and mobile-friendly classified ads marketplace with role-based access, advanced seller dashboards, and integrated PayPal payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
